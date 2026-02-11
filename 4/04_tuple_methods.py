@@ -7,3 +7,5 @@ print(no)
 
 i = a.index(3424)
 print(i) # Will print with 3 because 3424 is at 3, from 0 to 3
+
+print(len(a)) # Total length of a
