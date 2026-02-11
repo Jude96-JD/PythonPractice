@@ -1,3 +1,5 @@
+# Write a python program to print the contents of a directory using the OS module
+
 # OS module is basically for File & directory tasks such as list, view, move, delete, make new folder etc
 
 import os
