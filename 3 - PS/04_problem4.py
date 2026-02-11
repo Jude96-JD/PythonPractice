@@ -1,3 +1,5 @@
+# Replace the double space from problem 3 with single space
+
 name = "Jude is a good  boy"
 
 print(name.replace("  ", " "))
